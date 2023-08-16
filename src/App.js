@@ -16,7 +16,7 @@ export default function App() {
           <small>
             Coded by{" "}
             <a href="https://github.com/Daphne271991/dictionary-project">
-              Daphne Bonilla
+              Daphne Bonilla 👩🏽‍💻
             </a>{" "}
           </small>
         </footer>
